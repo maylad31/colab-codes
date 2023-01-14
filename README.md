@@ -1,7 +1,7 @@
 # whisper-hindi-to-english
 a colab file to record audio in hindi and translate it to english
 
-Open the file in colab and run the cells. </br>
-Give permission to use your microphone.</br>
-Record audio in Hindi(you can record in other languases as well, it doesn't matter)</br>
-Trnaslate and listen!(Ignore errors during pip install step)
+This is basically what I do:
+Install libraries.
+Record audio in Hindi(you can record in other languases as well, it doesn't matter) Make sure you give permission to use your microphone.</br>
+Translate to english, convert text to speech and play!(Ignore errors during pip install step)
